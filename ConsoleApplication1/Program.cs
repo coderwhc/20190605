@@ -13,7 +13,6 @@ namespace ConsoleApplication1
             Console.WriteLine("hello world");
             Console.WriteLine("hello wordld");
             Console.WriteLine("hello wordld");
-            Console.WriteLine("hello wordld");
             Console.ReadKey();
 
         }
